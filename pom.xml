@@ -4,7 +4,7 @@
 
     <groupId>org.kasung.test</groupId>
     <artifactId>mytest</artifactId>
-    <version>1.0.10-SNAPSHOT</version>
+    <version>1.2.10</version>
 
     <parent>
         <groupId>org.wso2</groupId>
@@ -16,7 +16,7 @@
         <url>https://github.com/kasunbg/urban-adventure.git</url>
         <developerConnection>scm:git:https://github.com/kasunbg/urban-adventure.git</developerConnection>
         <connection>scm:git:https://github.com/kasunbg/urban-adventure.git</connection>
-        <tag>HEAD</tag>
+        <tag>mytest-1.2.10</tag>
     </scm>
 
     <build>
